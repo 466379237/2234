@@ -1,0 +1,33 @@
+html,
+body {
+	margin: 0px;
+	width: 100%;
+}
+
+h3 {
+	height: 100px;
+	margin: 20px 0 0;
+}
+
+#left,
+#right {
+	width: 200px;
+	height: 200px;
+	background-color: #ffe6b8;
+	position: absolute;
+	top: 120px;
+}
+
+#left {
+	left: 0px;
+}
+
+#right {
+	right: 0px;
+}
+
+#center {
+	margin: 2px 210px;
+	background-color: #eee;
+	height: 200px;
+}
